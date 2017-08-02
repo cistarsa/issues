@@ -1,3 +1,4 @@
+```bash
 # issues
 # -Werror in Docker:
 root@82853d8df2a5:/scratch/src# ./Build snap
